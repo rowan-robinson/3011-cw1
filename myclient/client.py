@@ -1,7 +1,7 @@
 # IMPORTS
 import requests
 
-root = "https://rowanrobinson.pythonanywhere.com/"
+root = "https://sc22r2r.pythonanywhere.com/"
 # root = "http://127.0.0.1:8000/"
 session = requests.Session()
 
